@@ -1,0 +1,5 @@
+{
+  "name": "ResumeCloner AI",
+  "description": "A 'Visual Cloning' engine that uses Gemini Vision to reverse-engineer PDF resume styles into HTML/Tailwind templates, then injects your content into the new design.",
+  "requestFramePermissions": []
+}
